@@ -3,6 +3,9 @@ A Chrome extension that lets you see the "davachki" or additional fees that are 
 
 **Download Link: [ThommannDavachki Releases](https://github.com/AndrejStojkovic/ThomannDavachki/releases/tag/Releases)**
 
+## Installation Guide:
+<img src='misc/installation.png' />
+
 ## Previews:
 <img src='misc/preview1.png' />
 <img src='misc/preview2.png' />
