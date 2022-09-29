@@ -5,3 +5,4 @@ A Chrome extension that lets you see the "davachki" or additional fees that are 
 
 ## Previews:
 <img src='misc/preview1.png' />
+<img src='misc/preview2.png' />
