@@ -1,5 +1,5 @@
 /*
-  ThomannDavachki
+  Thomann Izdatoci
   Chrome Extension
 */
 
@@ -21,24 +21,24 @@ if(document.getElementsByClassName('shop-country__stats')[0].innerHTML.includes(
 }
 
 function createNewPriceElements(price, size) {
-	let davachkiDiv = document.createElement('div');
-	davachkiDiv.style.fontWeight = 700;
-	davachkiDiv.style.fontSize = size;
+	let izdatociDiv = document.createElement('div');
+	izdatociDiv.style.fontWeight = 700;
+	izdatociDiv.style.fontSize = size;
 	
-  let davachki = (price * carina) + parseInt((price + (price * carina)) * danok);
+  let izdatoci = (price * carina) + parseInt((price + (price * carina)) * danok);
 
 	let span1 = document.createElement('span');
-	span1.innerText = "Давачки: " + numberWithCommas(davachki) + ' MKD';
+	span1.innerText = "Издатоци: " + numberWithCommas(izdatoci) + ' MKD';
 	span1.style.display = 'block';
 	span1.style.marginBottom = '10px';
 	
 	let span2 = document.createElement('span');
-	span2.innerText = "Вкупно: " + numberWithCommas(price + davachki) + ' MKD';
+	span2.innerText = "Вкупно: " + numberWithCommas(price + izdatoci) + ' MKD';
 	span2.style.display = 'block';
 	span2.style.marginBottom = '20px';
 	
-	davachkiDiv.append(span1, span2);
-	return davachkiDiv;
+	izdatociDiv.append(span1, span2);
+	return izdatociDiv;
 }
 
 function numberWithCommas(x) {
