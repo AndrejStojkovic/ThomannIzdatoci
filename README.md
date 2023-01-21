@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="misc/logo.png" alt="Logo" width=128 height=128>
+  <img src="images/logo.png" alt="Logo" width=128 height=128>
 
   <h3 align="center">ThomannDavachki</h3>
 
