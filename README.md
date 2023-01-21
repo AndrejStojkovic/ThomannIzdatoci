@@ -4,7 +4,7 @@
 <p align="center">
   <img src="images/logo.png" alt="Logo" width=128 height=128>
 
-  <h3 align="center">ThomannDavachki</h3>
+  <h3 align="center" style="margin: 0">ThomannDavachki</h3>
 
   <p align="center">
     A Chrome extension that lets you see the "davachki" or additional fees that are required when by Poshta Makedonija when you purchase from Thomann.
