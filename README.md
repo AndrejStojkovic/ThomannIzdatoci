@@ -1,2 +1,11 @@
 # ThomannDavachki
 A Chrome extension that lets you see the "davachki" or additional fees that are required when by Poshta Makedonija when you purchase from Thomann.
+
+**Download Link: [ThommannDavachki Releases](https://github.com/AndrejStojkovic/ThomannDavachki/releases/tag/Releases)**
+
+## Installation Guide:
+<img src='misc/installation.png' />
+
+## Previews:
+<img src='misc/preview1.png' />
+<img src='misc/preview2.png' />
