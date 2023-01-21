@@ -2,9 +2,7 @@
 
 
 <p align="center">
-  <a href="https://example.com/">
-    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
-  </a>
+  <img src="misc/logo.png" alt="Logo" width=128 height=128>
 
   <h3 align="center">ThomannDavachki</h3>
 
