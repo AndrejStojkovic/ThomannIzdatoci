@@ -1,6 +1,6 @@
 {
   "name": "Thomann Davachki",
-  "description": "An extension for Chrome that display the \"davachki\" from Thomann to Makedonija.",
+  "description": "An extension for Chrome that display the \"davachki\" from Thomann (Germany) to Macedonia.",
   "version": "1.1",
   "manifest_version": 3,
 	"permissions": ["tabs", "activeTab", "scripting"],
