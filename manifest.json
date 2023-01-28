@@ -1,6 +1,6 @@
 {
   "name": "Thomann Izdatoci",
-  "description": "An extension for Chrome that display the izdatoci (taxes) from Thomann (Germany) to Macedonia.",
+  "description": "An extension for Chrome that display the additional fees you have to pay when you order from Thomann (Germany) to Macedonia.",
   "version": "1.0",
   "manifest_version": 3,
 	"content_scripts": [

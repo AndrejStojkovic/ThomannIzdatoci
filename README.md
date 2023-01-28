@@ -7,7 +7,8 @@
   <h3 align="center">Thomann Izdatoci</h3>
 
   <p align="center">
-    A Chrome extension that lets you see the "izdatoci" or additional fees that are required when by Poshta Makedonija when you purchase from Thomann.
+    An extension for Chrome that display additional fees and the total amount<br />
+    you have to pay when you order fro, Thomann (Germany) to Macedonia.
   </p>
 </p>
 

@@ -11,7 +11,8 @@ if(document.getElementsByClassName('shop-country__stats')[0].innerHTML.includes(
   if(document.querySelector('.price-wrapper')) {
     let price = parseInt(document.querySelector('.price-wrapper').firstElementChild.content);
     let shipping = parseInt(document.querySelector('.meta__disclaimer').innerText.split(' ')[2].replace(',', ''));
-    document.getElementsByClassName('meta')[1].after(createNewPriceElements(price + shipping, '28px'));
+    var pos = document.querySelectorAll('.meta');
+    pos[pos.length - 1].after(createNewPriceElements(price + shipping, '28px'));
   }
   
   // Shopping Cart
