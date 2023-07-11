@@ -5,7 +5,7 @@
   "manifest_version": 3,
 	"content_scripts": [
     {
-      "matches": ["*://*.thomann.de/*"],
+      "matches": ["*://*.thomann.de/*", "*://*.www.thomannmusic.com/*"],
       "js": ["main.js"]
     }
   ],
